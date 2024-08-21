@@ -1,6 +1,6 @@
 # MAD Practical 2: Android Activity Lifecycle and Toast
 <p align="center">
-![Alt Text](1.png)
+<img src="https://github.com/DivyaNareshkumarPatel/MADPractical2/1.png"/>
 </p>
 This repository contains the source code and explanations related to the **Android Activity Lifecycle** and **Toast messages**. The purpose of this practical is to understand the different states an Activity goes through during its lifecycle and how to display short notifications using Toast.
 
